@@ -1,0 +1,1 @@
+Data and plotting for Figure 4D, 4G, and 5A (only the protein half-life estimates)
